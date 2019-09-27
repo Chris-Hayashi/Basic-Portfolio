@@ -1,20 +1,29 @@
+body {
+    background-color: #dddddd;
+}
+
 h1 {
     width: 350px;
     background-color: #4aaaa5;
     color: #ffffff;
-    text-align: Center;
+    text-align: center;
 }
 
 h2 {
     color: #4aaaa5;
 }
 
-div {
-    background-color: #dddddd;
-
+#myName {
+    background-color: #ffffff;
 }
 
 #aboutMe {
     width: 960px;
     background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#profilePic {
+    position: relative;
 }
