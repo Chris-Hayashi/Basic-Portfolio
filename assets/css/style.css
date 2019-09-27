@@ -1,9 +1,17 @@
+h1 {
+    width: 350px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: Center;
+}
+
 h2 {
     color: #4aaaa5;
 }
 
-#content {
+div {
     background-color: #dddddd;
+
 }
 
 #aboutMe {
