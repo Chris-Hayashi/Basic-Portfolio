@@ -12,6 +12,11 @@ h2 {
     color: #4aaaa5;
 }
 
+.content {
+    background-color: #dddddd;
+    flex: 1 1 auto;
+}
+
 #about {
     float: right;
     position: relative;
@@ -42,5 +47,6 @@ h2 {
 }
 
 #profilePic {
+    float: right;;
     position: relative;
 }
