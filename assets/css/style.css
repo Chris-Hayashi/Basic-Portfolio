@@ -1,9 +1,8 @@
-body {
-    background-color: #dddddd;
-}
+
 
 h1 {
     width: 350px;
+    display: inline-block;
     background-color: #4aaaa5;
     color: #ffffff;
     text-align: center;
@@ -11,6 +10,24 @@ h1 {
 
 h2 {
     color: #4aaaa5;
+}
+
+#about {
+    float: right;
+    position: relative;
+    left: 770px;
+}
+
+#portfolio {
+    float: right;
+    position: relative;
+    left: 1000px;
+}
+
+#contact {
+    float: right;
+    position: relative;
+    left: 1250px;
 }
 
 #myName {
